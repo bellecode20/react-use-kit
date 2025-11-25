@@ -16,5 +16,20 @@
   "bugs": {
     "url": "https://github.com/bellecode20/react-use-kit/issues"
   },
-  "homepage": "https://github.com/bellecode20/react-use-kit#readme"
+  "homepage": "https://github.com/bellecode20/react-use-kit#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "jsdom": "^27.2.0",
+    "prettier": "^3.6.2",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.48.0",
+    "vitest": "^4.0.13"
+  }
 }
